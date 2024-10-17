@@ -1,18 +1,18 @@
 # Personal_To_do_Application
 *Overview*
-*This Python application provides a user-friendly to-do list management system. It allows users to create, edit, delete, and mark tasks as completed. The application offers both a Command-Line Interface (CLI) and a Graphical User Interface (GUI) for flexibility.
+This Python application provides a user-friendly to-do list management system. It allows users to create, edit, delete, and mark tasks as completed. The application offers both a Command-Line Interface (CLI) and a Graphical User Interface (GUI) for flexibility.
 
 *Features*
-*Task Creation: Add new tasks with titles, descriptions, due dates, priorities, and categories.
-*Task Management: Mark tasks as completed, edit existing tasks, and delete unwanted tasks.
-*Search Functionality: Search for tasks based on keywords in titles or descriptions.
-*Persistence: Save task data to a JSON file for future sessions.
-*Getting Started
-*Installation: Ensure you have Python installed on your system.
+Task Creation: Add new tasks with titles, descriptions, due dates, priorities, and categories.
+Task Management: Mark tasks as completed, edit existing tasks, and delete unwanted tasks.
+Search Functionality: Search for tasks based on keywords in titles or descriptions.
+Persistence: Save task data to a JSON file for future sessions.
+Getting Started
+Installation: Ensure you have Python installed on your system.
 
-*Clone or Download: Download the project files from this repository.
+Clone or Download: Download the project files from this repository.
 
-*Run: Execute the main.py file using Python:
+Run: Execute the main.py file using Python:
 
 *Bash*
 python main.py
